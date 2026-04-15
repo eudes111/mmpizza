@@ -1,0 +1,7 @@
+{
+  "name": "MM Pizza Delivery",
+  "description": "Peça sua pizza favorita online! Entrega rápida em Goianésia. Pizza Grande com até 2 sabores.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
